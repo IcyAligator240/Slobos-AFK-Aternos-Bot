@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "STRIK3SMP.aternos.me",
-    "port": 48815,
+    "ip": "STRIK3_SMP.aternos.me",
+    "port": 112255,
     "version": "",
     "try-creative": false
   },
